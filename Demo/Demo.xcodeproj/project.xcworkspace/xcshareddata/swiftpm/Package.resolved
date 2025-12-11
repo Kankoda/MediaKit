@@ -1,0 +1,15 @@
+{
+  "originHash" : "c06f0124ff7e0adf382c439f5ecd1ce2100c69e78e3446ee5a8898c978f97590",
+  "pins" : [
+    {
+      "identity" : "mediakit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kankoda/mediakit",
+      "state" : {
+        "revision" : "4cab4ed78eb6f4dbf45078035fe7b74549b59c6b",
+        "version" : "0.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}
