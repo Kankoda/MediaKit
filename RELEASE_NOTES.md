@@ -13,13 +13,18 @@ These release notes cover the current major version. See older versions for olde
 
 ## 0.4
 
-This package has been created from the open-source [VideoKit](https://github.com/danielsaidi/VideoKit) project. The initial version number is in sync with that project, after which they may diverge.
+This version bumps the package to Swift 6.1 and the demo app to iOS 26.
 
-### ✨ Features
+### ✨ New Features
 
-* This version adds a `GoogleCast` dependency.
-* This version adds a new `Chromecast` namespace.
+* `MediaItem` is a new models.
+* `Paginable` is a new protocol for paginable types.
+* `PaginationContext` is a new observable pagination model.
 
-### 👑 Pro
+### 💡 Adjustments
 
-* This package will have a commercial offering, but it's not yet implemented. 
+* `VideoSplashScreenViewModifier` now avoids redrawing the source view.
+
+### 💥 Breaking Changes
+
+* `VideoSplashScreenViewModifier` no longer has an enabled property.

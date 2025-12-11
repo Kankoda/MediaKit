@@ -20,8 +20,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MediaKit",
-            url: "https://github.com/Kankoda/MediaKit-Binaries/releases/download/0.1.0/MediaKit.zip",
-            checksum: "a6130defa8376d8384feeaf88ac0c188dd4c131a2b5d5b3466949d055f3d96b2"
+            url: "https://github.com/Kankoda/MediaKit-Binaries/releases/download/0.4.0/MediaKit.zip",
+            checksum: "3de89a571de5d2479381c20ca14267765a9601fb847f8c1806c775dd3fb1ca47"
         )
     ]
 )
