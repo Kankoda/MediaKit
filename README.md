@@ -15,7 +15,7 @@
 MediaKit lets you create amazing streaming media apps in Swift and SwiftUI. 
 
 <p align="center">
-    <img src="https://github.com/kankoda/VideoKit/releases/download/0.1/VideoKit-Demo-Compressed.gif" alt="Demo Gif" width="300" />
+    <img src="https://github.com/Kankoda/MediaKit/releases/download/0.4.0/MediaKit-Preview.gif" alt="Demo Gif" width="300" />
 </p>
 
 MediaKit has a ``VideoPlayer`` and lets you add a video splash screen to present when your app launches. It has views, sample data, Chromecast support, and much more.
